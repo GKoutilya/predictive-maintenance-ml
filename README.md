@@ -162,6 +162,6 @@ This project is inspired by the need for smarter **predictive maintenance** stra
 * Aspiring Machine Learning Engineer in Manufacturing, Automation, and Industry 4.0*
 * Texas A\&M University
 * Portfolio-ready, full-cycle ML project
-* [Your LinkedIn](www.linkedin.com/in/koutilya-ganapathiraju-0a3350182) | [Your GitHub](https://github.com/GKoutilya)
+* [LinkedIn](www.linkedin.com/in/koutilya-ganapathiraju-0a3350182) | [GitHub](https://github.com/GKoutilya)
 
 ---
