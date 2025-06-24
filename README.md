@@ -159,9 +159,9 @@ This project is inspired by the need for smarter **predictive maintenance** stra
 ## Author
 
 **Koutilya Ganapathiraju**
-*Aspiring Machine Learning Engineer in Manufacturing, Automation, and Industry 4.0*
-*Texas A\&M University
-*Portfolio-ready, full-cycle ML project
-*[Your LinkedIn](www.linkedin.com/in/koutilya-ganapathiraju-0a3350182) | [Your GitHub](https://github.com/GKoutilya)
+* Aspiring Machine Learning Engineer in Manufacturing, Automation, and Industry 4.0*
+* Texas A\&M University
+* Portfolio-ready, full-cycle ML project
+* [Your LinkedIn](www.linkedin.com/in/koutilya-ganapathiraju-0a3350182) | [Your GitHub](https://github.com/GKoutilya)
 
 ---
